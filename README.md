@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/soniyamittal/Space%20Game-Web-Workflow/_apis/build/status/sonmitt.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/soniyamittal/Space%20Game-Web-Workflow/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
